@@ -1,0 +1,266 @@
+[
+    {
+        "path": "cpp/01-what-is-programming.md",
+        "title": "What is Programming?",
+        "subject": "C++",
+        "section": "Getting Started",
+        "difficulty": "Beginner",
+        "order": 1,
+        "estimatedTime": 10,
+        "tags": [
+            "basics"
+        ],
+        "description": "Learn what programming actually is and what code does."
+    },
+    {
+        "path": "cpp/02-installing-cpp.md",
+        "title": "Installing C++",
+        "subject": "C++",
+        "section": "Getting Started",
+        "difficulty": "Beginner",
+        "order": 2,
+        "estimatedTime": 15,
+        "tags": [
+            "setup"
+        ],
+        "description": "Install VSCode, a compiler, and learn how to run programs."
+    },
+    {
+        "path": "cpp/03-your-first-program.md",
+        "title": "Your First Program",
+        "subject": "C++",
+        "section": "Getting Started",
+        "difficulty": "Beginner",
+        "order": 3,
+        "estimatedTime": 10,
+        "tags": [
+            "hello-world"
+        ],
+        "description": "Write and run your first C++ program."
+    },
+    {
+        "path": "cpp/04-understanding-main.md",
+        "title": "Understanding main()",
+        "subject": "C++",
+        "section": "Basics",
+        "difficulty": "Beginner",
+        "order": 4,
+        "estimatedTime": 10,
+        "tags": [
+            "main"
+        ],
+        "description": "Learn why every C++ program starts in main()."
+    },
+    {
+        "path": "cpp/05-printing-text.md",
+        "title": "Printing Text",
+        "subject": "C++",
+        "section": "Basics",
+        "difficulty": "Beginner",
+        "order": 5,
+        "estimatedTime": 10,
+        "tags": [
+            "cout"
+        ],
+        "description": "Display text and values on the console."
+    },
+    {
+        "path": "cpp/06-variables.md",
+        "title": "Variables",
+        "subject": "C++",
+        "section": "Basics",
+        "difficulty": "Beginner",
+        "order": 6,
+        "estimatedTime": 15,
+        "tags": [
+            "variables"
+        ],
+        "description": "Store information using variables."
+    },
+    {
+        "path": "cpp/07-types-values.md",
+        "title": "Types and Values",
+        "subject": "C++",
+        "section": "Basics",
+        "difficulty": "Beginner",
+        "order": 7,
+        "estimatedTime": 15,
+        "tags": [
+            "types"
+        ],
+        "description": "Learn about integers, floats, booleans, and strings."
+    },
+    {
+        "path": "cpp/08-math.md",
+        "title": "Math Operations",
+        "subject": "C++",
+        "section": "Basics",
+        "difficulty": "Beginner",
+        "order": 8,
+        "estimatedTime": 15,
+        "tags": [
+            "operators"
+        ],
+        "description": "Perform calculations with numbers."
+    },
+    {
+        "path": "cpp/09-user-input.md",
+        "title": "User Input",
+        "subject": "C++",
+        "section": "Basics",
+        "difficulty": "Beginner",
+        "order": 9,
+        "estimatedTime": 15,
+        "tags": [
+            "cin"
+        ],
+        "description": "Allow users to enter information."
+    },
+    {
+        "path": "cpp/10-if-statements.md",
+        "title": "Making Decisions",
+        "subject": "C++",
+        "section": "Control Flow",
+        "difficulty": "Beginner",
+        "order": 10,
+        "estimatedTime": 20,
+        "tags": [
+            "if"
+        ],
+        "description": "Use conditions to control what code runs."
+    },
+    {
+        "path": "cpp/11-while-loops.md",
+        "title": "While Loops",
+        "subject": "C++",
+        "section": "Loops",
+        "difficulty": "Beginner",
+        "order": 11,
+        "estimatedTime": 20,
+        "tags": [
+            "while"
+        ],
+        "description": "Repeat code while a condition is true."
+    },
+    {
+        "path": "cpp/12-for-loops.md",
+        "title": "For Loops",
+        "subject": "C++",
+        "section": "Loops",
+        "difficulty": "Beginner",
+        "order": 12,
+        "estimatedTime": 20,
+        "tags": [
+            "for"
+        ],
+        "description": "Repeat code a specific number of times."
+    },
+    {
+        "path": "cpp/13-arrays.md",
+        "title": "Arrays",
+        "subject": "C++",
+        "section": "Collections",
+        "difficulty": "Beginner",
+        "order": 13,
+        "estimatedTime": 20,
+        "tags": [
+            "arrays"
+        ],
+        "description": "Store many values together."
+    },
+    {
+        "path": "cpp/14-array-iteration.md",
+        "title": "Looping Through Arrays",
+        "subject": "C++",
+        "section": "Collections",
+        "difficulty": "Beginner",
+        "order": 14,
+        "estimatedTime": 20,
+        "tags": [
+            "arrays",
+            "loops"
+        ],
+        "description": "Process every item in an array."
+    },
+    {
+        "path": "cpp/15-functions.md",
+        "title": "Functions",
+        "subject": "C++",
+        "section": "Functions",
+        "difficulty": "Beginner",
+        "order": 15,
+        "estimatedTime": 25,
+        "tags": [
+            "functions"
+        ],
+        "description": "Create reusable pieces of code."
+    },
+    {
+        "path": "cpp/16-simple-project.md",
+        "title": "Project: Number Guessing Game",
+        "subject": "C++",
+        "section": "Projects",
+        "difficulty": "Beginner",
+        "order": 16,
+        "estimatedTime": 40,
+        "tags": [
+            "project"
+        ],
+        "description": "Combine everything you've learned into a small game."
+    },
+    {
+        "path": "cpp/17-intro-to-raylib.md",
+        "title": "Introduction to Raylib",
+        "subject": "C++",
+        "section": "Game Development",
+        "difficulty": "Beginner",
+        "order": 17,
+        "estimatedTime": 15,
+        "tags": [
+            "raylib"
+        ],
+        "description": "Create your first window."
+    },
+    {
+        "path": "cpp/18-drawing-shapes.md",
+        "title": "Drawing Shapes",
+        "subject": "C++",
+        "section": "Game Development",
+        "difficulty": "Beginner",
+        "order": 18,
+        "estimatedTime": 20,
+        "tags": [
+            "raylib",
+            "rendering"
+        ],
+        "description": "Render circles, rectangles, and text."
+    },
+    {
+        "path": "cpp/19-keyboard-input.md",
+        "title": "Keyboard Input",
+        "subject": "C++",
+        "section": "Game Development",
+        "difficulty": "Beginner",
+        "order": 19,
+        "estimatedTime": 20,
+        "tags": [
+            "raylib",
+            "input"
+        ],
+        "description": "Read keyboard input and move objects."
+    },
+    {
+        "path": "cpp/20-first-game.md",
+        "title": "Project: Your First Game",
+        "subject": "C++",
+        "section": "Projects",
+        "difficulty": "Beginner",
+        "order": 20,
+        "estimatedTime": 60,
+        "tags": [
+            "project",
+            "raylib"
+        ],
+        "description": "Build a simple game using everything you've learned."
+    }
+]
